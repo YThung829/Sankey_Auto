@@ -1,0 +1,4 @@
+<!-- input.svg -->
+<svg width="400" height="200">
+  <circle cx="100" cy="100" r="40" fill="red"/>
+</svg>
